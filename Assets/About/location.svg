@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="Contact_Us" transform="translate(-187.000000, -1173.000000)" fill="#000000">
+            <g id="Sign-Up/In-03" transform="translate(144.000000, 487.000000)">
+                <g id="Create-Account" transform="translate(40.000000, 64.000000)">
+                    <path d="M10.9548023,633.028249 C9.23728814,633.028249 7.79096045,631.581921 7.79096045,629.864407 C7.79096045,628.056497 9.23728814,626.610169 10.9548023,626.610169 C12.7627119,626.610169 14.2090395,628.056497 14.2090395,629.864407 C14.2090395,631.581921 12.7627119,633.028249 10.9548023,633.028249 M10.9548023,622 C6.61581921,622 3,625.615819 3,629.954802 C3,633.118644 7.42937853,638.271186 10.3220339,641.977401 C10.6836158,642.429379 11.3163842,642.429379 11.6779661,641.977401 C14.5706215,638.271186 19,633.118644 19,629.954802 C19,625.615819 15.3841808,622 10.9548023,622" id="location"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

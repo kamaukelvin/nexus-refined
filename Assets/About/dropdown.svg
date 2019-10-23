@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 14 0 14 8.4 0 8.4"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-723.000000, -822.000000)">
+            <g id="dropdown" transform="translate(723.000000, 822.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M1.30510116,0 C0.584957282,-0.000567148775 0.000641254898,0.589267577 0,1.31781069 C-0.0003197912,1.66814659 0.137430149,2.00454683 0.382496904,2.25214778 L6.07829677,8.01437933 C6.58797155,8.52837817 7.4131898,8.52870225 7.92286458,8.01437933 L13.6186645,2.25214778 C14.1276985,1.73620444 14.1270578,0.900713275 13.6170627,0.385742188 C13.1080286,-0.128580729 12.2831307,-0.128580729 11.7737763,0.385742188 L7.00058068,5.21493298 L2.22738506,0.385742188 C1.98295901,0.138141237 1.65107775,-0.000567148775 1.30510116,0" id="Fill-1" fill="#23296C" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

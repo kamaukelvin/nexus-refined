@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>arrow_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 10 0 10 6 0 6"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About_us" transform="translate(-790.000000, -80.000000)">
+            <g id="arrow_active" transform="translate(790.000000, 80.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M0.932215113,0 C0.41782663,-0.000405106268 0.000458039213,0.420905412 0,0.941293349 C-0.000228422286,1.19153328 0.0981643924,1.43181917 0.273212074,1.60867699 L4.34164055,5.72455667 C4.70569397,6.09169869 5.29513557,6.09193018 5.65918899,5.72455667 L9.72761747,1.60867699 C10.0912132,1.24014603 10.0907556,0.643366625 9.72647337,0.275530134 C9.36287759,-0.0918433781 8.77366481,-0.0918433781 8.40984021,0.275530134 L5.00041477,3.72495213 L1.59098933,0.275530134 C1.41639929,0.0986723123 1.17934125,-0.000405106268 0.932215113,0" id="Fill-1" fill="#FF9F00" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

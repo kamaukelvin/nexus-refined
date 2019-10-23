@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>more</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="Homepage" transform="translate(-969.000000, -1959.000000)" fill="#1761FA">
+            <g id="more" transform="translate(969.000000, 1959.000000)">
+                <path d="M15,1.8 C22.2903,1.8 28.2,7.7097 28.2,15 C28.2,22.2903 22.2903,28.2 15,28.2 C7.7133,28.1919 1.8081,22.2867 1.8,15 C1.8,7.7097 7.7097,1.8 15,1.8 M15,30 C23.2842,30 30,23.2842 30,15 C30,6.7158 23.2842,0 15,0 C6.7197,0.0099 0.0099,6.7197 0,15 C0,23.2842 6.7158,30 15,30" id="Fill-1"></path>
+                <polygon id="Fill-3" points="13.3099772 22 20 15 13.3099772 8 12 9.30297645 17.4470678 15 12 20.6973345"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
